@@ -63,5 +63,6 @@
 
 <h1><?echo $header1?></h1>
 <strong>Now is <?echo $currYear?></strong>
+<p></p>
 </body>
 </html>
